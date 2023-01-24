@@ -1,0 +1,226 @@
+[
+ {
+  "name":"Asoh Yannick",
+  "company":"codingGuru",
+  "price":200,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Yanko",
+  "company":"microsoft",
+  "price":400,
+  "status":false,
+  "featured":true,
+  "rating":8.5
+ },
+ {
+  "name":"Great coders",
+  "company":"codingGuruComplex",
+  "price":500,
+  "status":false,
+  "featured":true,
+  "rating":10
+ },
+ {
+  "name":"scrum master",
+  "company":"scrumMasterIII",
+  "price":150,
+  "status":true,
+  "featured":true,
+  "rating":12
+ },
+ {
+  "name":"Asoh Stephanie",
+  "company":"GreatDeveloper",
+  "price":400,
+  "status":false,
+  "featured":true,
+  "rating":15
+ },
+ {
+  "name":"Asoh Nessie",
+  "company":"sportifyStartUp",
+  "price":500,
+  "status":true,
+  "featured":false,
+  "rating":18
+ },
+ {
+  "name":"Asoh Stephen",
+  "company":"codingSupporters",
+  "price":600,
+  "status":true,
+  "featured":false,
+  "rating":17.5
+ },
+ {
+  "name":"Asoh Hosea",
+  "company":"codingWithHosea",
+  "price":700,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nehemiah",
+  "company":"codingGuruI",
+  "price":1000,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Malachiah",
+  "company":"codingGuruII",
+  "price":800,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nathaniel",
+  "company":"codingGuruIII",
+  "price":900,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh John",
+  "company":"codingGuruIV",
+  "price":4900,
+  "status":true,
+  "featured":false,
+  "rating":7.10
+ },
+ {
+  "name":"Asoh Stephanie",
+  "company":"GreatDeveloper",
+  "price":400,
+  "status":false,
+  "featured":true,
+  "rating":15
+ },
+ {
+  "name":"Asoh Nessie",
+  "company":"sportifyStartUp",
+  "price":500,
+  "status":true,
+  "featured":false,
+  "rating":18
+ },
+ {
+  "name":"Asoh Stephen",
+  "company":"codingSupporters",
+  "price":600,
+  "status":true,
+  "featured":false,
+  "rating":17.5
+ },
+ {
+  "name":"Asoh Hosea",
+  "company":"codingWithHosea",
+  "price":700,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nehemiah",
+  "company":"codingGuruI",
+  "price":1000,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Malachiah",
+  "company":"codingGuruII",
+  "price":800,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nathaniel",
+  "company":"codingGuruIII",
+  "price":900,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh John",
+  "company":"codingGuruIV",
+  "price":4900,
+  "status":true,
+  "featured":false,
+  "rating":7.10
+ },
+ {
+  "name":"Asoh Stephanie",
+  "company":"GreatDeveloper",
+  "price":400,
+  "status":false,
+  "featured":true,
+  "rating":15
+ },
+ {
+  "name":"Asoh Nessie",
+  "company":"sportifyStartUp",
+  "price":500,
+  "status":true,
+  "featured":false,
+  "rating":18
+ },
+ {
+  "name":"Asoh Stephen",
+  "company":"codingSupporters",
+  "price":600,
+  "status":true,
+  "featured":false,
+  "rating":17.5
+ },
+ {
+  "name":"Asoh Hosea",
+  "company":"codingWithHosea",
+  "price":700,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nehemiah",
+  "company":"codingGuruI",
+  "price":1000,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Malachiah",
+  "company":"codingGuruII",
+  "price":800,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh Nathaniel",
+  "company":"codingGuruIII",
+  "price":900,
+  "status":true,
+  "featured":false,
+  "rating":7.5
+ },
+ {
+  "name":"Asoh John",
+  "company":"codingGuruIV",
+  "price":4900,
+  "status":true,
+  "featured":false,
+  "rating":7.10
+ }
+]
